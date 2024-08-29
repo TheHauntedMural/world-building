@@ -1,4 +1,4 @@
-# world-building
+#The-Haunted-Mural's-Compendium
 Welcome to the The Haunted Mural's Compendium! 🌍✨ This repository is a treasure trove of information about the rich and fascinating world of The Haunted Mural! Whether you're a fellow creator, a curious explorer, or someone who loves getting lost in new worlds, you've come to the right place. 
 
 Inside, you'll find a collection of files detailing various aspects of this fictional universe:
